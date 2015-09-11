@@ -1,0 +1,114 @@
+<!--停車場Sample url=http://data.kaohsiung.gov.tw/Opendata/DetailList.aspx?CaseNo1=AP&CaseNo2=12&Lang=C -->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf8">
+  <title>OpenData Sample 1 by C.Y. Fang </title>
+  <style type="text/css">
+    html { height: 100% }
+    body { height: 100%; margin: 0; padding: 0 }
+    #map { height: 90%; width: 100% }
+    #about { height: 10%; width: 100% }
+  </style>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false&language=zh-TW"></script>
+  <script type="text/javascript">
+  var markerArray;
+  var mapOptions = {
+      zoom:14,
+      center: new google.maps.LatLng(22.631386, 120.301951),
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+  }
+  var map;
+ 
+  function createMarker(position, title, icon, content, map){
+    var marker = new google.maps.Marker({
+        position: position,
+        title: title,  
+        icon: icon
+    });
+ 
+    var infowindow = new google.maps.InfoWindow({
+        content: content,
+        position: position
+    });
+ 
+    google.maps.event.addListener(marker, 'click', function() {
+        infowindow.open(map, marker);
+    });
+ 
+    google.maps.event.addListener(marker, 'mouseout', function() {
+        infowindow.close();
+    });
+ 
+    return marker;
+  }
+ 
+  function startTimer () {
+    setInterval(function () {
+      var url = "https://query.yahooapis.com/v1/public/yql?q=SELECT%20*%20FROM%20xml%20WHERE%20url%3D%22http%3A%2F%2Fxml11.kctmc.nat.gov.tw%3A8080%2Fxmldata%2FParking.xml%22&format=json&diagnostics=true";
+       
+      if(map === undefined)
+        map = new google.maps.Map(document.getElementById("map"), mapOptions);
+ 
+      if(markerArray === undefined)
+        markerArray = Array();
+ 
+    $.getJSON(url, function(data){
+      if(data){
+         
+        var dataInfo = data.query.results.NewDataSet.Data;
+        var length = dataInfo.length;
+         // return dataInfo.length;
+         for(var index = 0; index < length; index++){
+         
+          var update = '<p>';
+          if(dataInfo[index].UPDATETIME)
+            update += '最新更新時間：' + dataInfo[index].UPDATETIME + '<p>';
+ 
+          var price = '';
+          if(dataInfo[index].PRICE !== null)
+            price = dataInfo[index].PRICE.toString();
+ 
+          markerArray[index] = createMarker(
+            new google.maps.LatLng(dataInfo[index].N, dataInfo[index].E),
+            dataInfo[index].NAME,
+            {
+              url: 'http://www.cloud.taipei.gov.tw/resources/images/web/pri/parkBlue.png',
+              size: new google.maps.Size(32, 32),
+              origin: new google.maps.Point(0, 0),
+              anchor: new google.maps.Point(0, 32)
+            },
+            price + update +
+            '還有' + dataInfo[index].CAR_NUM + '個車位',
+            map
+          );
+          
+          markerArray[index].setMap(null);
+          markerArray[index].setMap(map);
+
+        }
+      }
+      return dataInfo.length;
+    });
+    
+  }, 3000);
+
+}
+
+  function initialize() {
+    startTimer();
+
+   // document.getElementById("map").innerHTML = 5 + 6;
+  }
+ </script>
+ 
+</head>
+<body onload="initialize()">
+  <div id="map"></div>
+  <div id="about">
+    <a href="https://www.facebook.com/ChenYoFang">My Facebook</a>&nbsp&nbsp&nbsp&nbsp&nbsp
+    <a href="http://cyfangnotepad.blogspot.tw/">My Blogger</a>
+  </div>
+</body>
+</html>

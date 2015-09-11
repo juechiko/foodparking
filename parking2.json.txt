@@ -1,0 +1,2152 @@
+{
+  "DATA": {
+    "UPDATETIME": "Tue Sep 08 17:15:28 CST 2015",
+    "PARK": [
+      {
+        "ID": "058",
+        "AVAILABLECAR": "26",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "042",
+        "ALT_PAK2": "019",
+        "ALT_PAK3": "055"
+      },
+      {
+        "ID": "057",
+        "AVAILABLECAR": "82",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "007",
+        "ALT_PAK2": "018",
+        "ALT_PAK3": "026"
+      },
+      {
+        "ID": "056",
+        "AVAILABLECAR": "333",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "037",
+        "ALT_PAK2": "080",
+        "ALT_PAK3": "031"
+      },
+      {
+        "ID": "055",
+        "AVAILABLECAR": "69",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "019",
+        "ALT_PAK2": "018",
+        "ALT_PAK3": "071"
+      },
+      {
+        "ID": "059",
+        "AVAILABLECAR": "414",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "073",
+        "ALT_PAK2": "042",
+        "ALT_PAK3": "058"
+      },
+      {
+        "ID": "159",
+        "AVAILABLECAR": "83",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "085",
+        "ALT_PAK2": "118",
+        "ALT_PAK3": "080"
+      },
+      {
+        "ID": "158",
+        "AVAILABLECAR": "9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "159",
+        "ALT_PAK2": "118",
+        "ALT_PAK3": "085"
+      },
+      {
+        "ID": "156",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "131",
+        "ALT_PAK2": "005",
+        "ALT_PAK3": "095"
+      },
+      {
+        "ID": "153",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "031",
+        "ALT_PAK2": "056",
+        "ALT_PAK3": "060"
+      },
+      {
+        "ID": "150",
+        "AVAILABLECAR": "-3",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "050",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "096",
+        "ALT_PAK2": "005",
+        "ALT_PAK3": "086"
+      },
+      {
+        "ID": "053",
+        "AVAILABLECAR": "173",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "052",
+        "ALT_PAK2": "040",
+        "ALT_PAK3": "023"
+      },
+      {
+        "ID": "054",
+        "AVAILABLECAR": "4",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "064",
+        "ALT_PAK2": "065",
+        "ALT_PAK3": "075"
+      },
+      {
+        "ID": "051",
+        "AVAILABLECAR": "44",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "173",
+        "ALT_PAK2": "084",
+        "ALT_PAK3": "081"
+      },
+      {
+        "ID": "052",
+        "AVAILABLECAR": "23",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "053",
+        "ALT_PAK2": "040",
+        "ALT_PAK3": "023"
+      },
+      {
+        "ID": "202",
+        "AVAILABLECAR": "78",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "067",
+        "AVAILABLECAR": "68",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "090",
+        "ALT_PAK2": "007",
+        "ALT_PAK3": "091"
+      },
+      {
+        "ID": "203",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "066",
+        "AVAILABLECAR": "63",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "119",
+        "ALT_PAK2": "035",
+        "ALT_PAK3": "106"
+      },
+      {
+        "ID": "069",
+        "AVAILABLECAR": "94",
+        "AVAILABLEMOTOR": "52",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "044",
+        "ALT_PAK2": "007",
+        "ALT_PAK3": "025"
+      },
+      {
+        "ID": "204",
+        "AVAILABLECAR": "404",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "068",
+        "AVAILABLECAR": "61",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "140",
+        "ALT_PAK2": "138",
+        "ALT_PAK3": "184"
+      },
+      {
+        "ID": "205",
+        "AVAILABLECAR": "-3",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "200",
+        "AVAILABLECAR": "18",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "201",
+        "AVAILABLECAR": "33",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "206",
+        "AVAILABLECAR": "118",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "207",
+        "AVAILABLECAR": "-3",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "165",
+        "AVAILABLECAR": "139",
+        "AVAILABLEMOTOR": "45",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "038",
+        "ALT_PAK2": "089",
+        "ALT_PAK3": "022"
+      },
+      {
+        "ID": "208",
+        "AVAILABLECAR": "5",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "209",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "161",
+        "AVAILABLECAR": "38",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "127",
+        "ALT_PAK2": "059",
+        "ALT_PAK3": "073"
+      },
+      {
+        "ID": "162",
+        "AVAILABLECAR": "44",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "176",
+        "ALT_PAK2": "086",
+        "ALT_PAK3": "111"
+      },
+      {
+        "ID": "164",
+        "AVAILABLECAR": "336",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "028",
+        "ALT_PAK2": "009",
+        "ALT_PAK3": "177"
+      },
+      {
+        "ID": "160",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "159",
+        "ALT_PAK2": "118",
+        "ALT_PAK3": "085"
+      },
+      {
+        "ID": "060",
+        "AVAILABLECAR": "10",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "064",
+        "ALT_PAK2": "065",
+        "ALT_PAK3": "059"
+      },
+      {
+        "ID": "061",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "077",
+        "ALT_PAK2": "162",
+        "ALT_PAK3": "049"
+      },
+      {
+        "ID": "062",
+        "AVAILABLECAR": "8",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "065",
+        "ALT_PAK2": "064",
+        "ALT_PAK3": "079"
+      },
+      {
+        "ID": "063",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "064",
+        "AVAILABLECAR": "19",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "065",
+        "ALT_PAK2": "079",
+        "ALT_PAK3": "186"
+      },
+      {
+        "ID": "065",
+        "AVAILABLECAR": "10",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "064",
+        "ALT_PAK2": "079",
+        "ALT_PAK3": "186"
+      },
+      {
+        "ID": "211",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "212",
+        "AVAILABLECAR": "118",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "039",
+        "AVAILABLECAR": "123",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "124",
+        "ALT_PAK2": "097",
+        "ALT_PAK3": "102"
+      },
+      {
+        "ID": "038",
+        "AVAILABLECAR": "41",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "165",
+        "ALT_PAK2": "089",
+        "ALT_PAK3": "022"
+      },
+      {
+        "ID": "037",
+        "AVAILABLECAR": "131",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "031",
+        "ALT_PAK2": "056",
+        "ALT_PAK3": "080"
+      },
+      {
+        "ID": "210",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "036",
+        "AVAILABLECAR": "80",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "095",
+        "ALT_PAK2": "100",
+        "ALT_PAK3": "049"
+      },
+      {
+        "ID": "215",
+        "AVAILABLECAR": "38",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "216",
+        "AVAILABLECAR": "19",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "035",
+        "AVAILABLECAR": "13",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "082",
+        "ALT_PAK2": "066",
+        "ALT_PAK3": "106"
+      },
+      {
+        "ID": "034",
+        "AVAILABLECAR": "30",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "113",
+        "ALT_PAK2": "027",
+        "ALT_PAK3": "085"
+      },
+      {
+        "ID": "033",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "060",
+        "ALT_PAK2": "059",
+        "ALT_PAK3": "058"
+      },
+      {
+        "ID": "214",
+        "AVAILABLECAR": "201",
+        "AVAILABLEMOTOR": "468",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "219",
+        "AVAILABLECAR": "25",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "217",
+        "AVAILABLECAR": "412",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "177",
+        "AVAILABLECAR": "133",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "164",
+        "ALT_PAK2": "012",
+        "ALT_PAK3": "187"
+      },
+      {
+        "ID": "176",
+        "AVAILABLECAR": "158",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "162",
+        "ALT_PAK2": "086",
+        "ALT_PAK3": "111"
+      },
+      {
+        "ID": "218",
+        "AVAILABLECAR": "87",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "174",
+        "AVAILABLECAR": "20",
+        "AVAILABLEMOTOR": "145",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "120",
+        "ALT_PAK2": "104",
+        "ALT_PAK3": "043"
+      },
+      {
+        "ID": "173",
+        "AVAILABLECAR": "106",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "098",
+        "ALT_PAK2": "110",
+        "ALT_PAK3": "078"
+      },
+      {
+        "ID": "031",
+        "AVAILABLECAR": "23",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "037",
+        "ALT_PAK2": "056",
+        "ALT_PAK3": "060"
+      },
+      {
+        "ID": "032",
+        "AVAILABLECAR": "91",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "040",
+        "ALT_PAK2": "053",
+        "ALT_PAK3": "052"
+      },
+      {
+        "ID": "030",
+        "AVAILABLECAR": "33",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "071",
+        "ALT_PAK2": "106",
+        "ALT_PAK3": "019"
+      },
+      {
+        "ID": "049",
+        "AVAILABLECAR": "38",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "100",
+        "ALT_PAK2": "095",
+        "ALT_PAK3": "036"
+      },
+      {
+        "ID": "220",
+        "AVAILABLECAR": "17",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "221",
+        "AVAILABLECAR": "40",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "048",
+        "AVAILABLECAR": "86",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "002",
+        "ALT_PAK2": "107",
+        "ALT_PAK3": "012"
+      },
+      {
+        "ID": "222",
+        "AVAILABLECAR": "3",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "223",
+        "AVAILABLECAR": "16",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "045",
+        "AVAILABLECAR": "209",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "107",
+        "ALT_PAK2": "009",
+        "ALT_PAK3": "008"
+      },
+      {
+        "ID": "224",
+        "AVAILABLECAR": "8",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "225",
+        "AVAILABLECAR": "16",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "044",
+        "AVAILABLECAR": "115",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "069",
+        "ALT_PAK2": "025",
+        "ALT_PAK3": "007"
+      },
+      {
+        "ID": "226",
+        "AVAILABLECAR": "18",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "047",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "080",
+        "ALT_PAK2": "037",
+        "ALT_PAK3": "056"
+      },
+      {
+        "ID": "227",
+        "AVAILABLECAR": "26",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "228",
+        "AVAILABLECAR": "9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "188",
+        "AVAILABLECAR": "302",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "022",
+        "ALT_PAK2": "026",
+        "ALT_PAK3": "004"
+      },
+      {
+        "ID": "187",
+        "AVAILABLECAR": "24",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "177",
+        "ALT_PAK2": "014",
+        "ALT_PAK3": "006"
+      },
+      {
+        "ID": "229",
+        "AVAILABLECAR": "30",
+        "AVAILABLEMOTOR": "38",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "189",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "035",
+        "ALT_PAK2": "082",
+        "ALT_PAK3": "106"
+      },
+      {
+        "ID": "181",
+        "AVAILABLECAR": "40",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "182",
+        "ALT_PAK2": "183",
+        "ALT_PAK3": "023"
+      },
+      {
+        "ID": "182",
+        "AVAILABLECAR": "132",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "181",
+        "ALT_PAK2": "183",
+        "ALT_PAK3": "023"
+      },
+      {
+        "ID": "183",
+        "AVAILABLECAR": "303",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "182",
+        "ALT_PAK2": "181",
+        "ALT_PAK3": "023"
+      },
+      {
+        "ID": "184",
+        "AVAILABLECAR": "429",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "102",
+        "ALT_PAK2": "020",
+        "ALT_PAK3": "138"
+      },
+      {
+        "ID": "186",
+        "AVAILABLECAR": "499",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "075",
+        "ALT_PAK2": "026",
+        "ALT_PAK3": "004"
+      },
+      {
+        "ID": "040",
+        "AVAILABLECAR": "58",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "053",
+        "ALT_PAK2": "052",
+        "ALT_PAK3": "032"
+      },
+      {
+        "ID": "041",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "177",
+        "ALT_PAK2": "164",
+        "ALT_PAK3": "012"
+      },
+      {
+        "ID": "042",
+        "AVAILABLECAR": "107",
+        "AVAILABLEMOTOR": "16",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "093",
+        "ALT_PAK2": "073",
+        "ALT_PAK3": "106"
+      },
+      {
+        "ID": "043",
+        "AVAILABLECAR": "122",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "103",
+        "ALT_PAK2": "120",
+        "ALT_PAK3": "105"
+      },
+      {
+        "ID": "116",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "118",
+        "ALT_PAK2": "080",
+        "ALT_PAK3": "159"
+      },
+      {
+        "ID": "117",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "159",
+        "ALT_PAK2": "085",
+        "ALT_PAK3": "118"
+      },
+      {
+        "ID": "019",
+        "AVAILABLECAR": "37",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "055",
+        "ALT_PAK2": "071",
+        "ALT_PAK3": "030"
+      },
+      {
+        "ID": "114",
+        "AVAILABLECAR": "63",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "027",
+        "ALT_PAK2": "085",
+        "ALT_PAK3": "113"
+      },
+      {
+        "ID": "115",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "128",
+        "ALT_PAK2": "034",
+        "ALT_PAK3": "113"
+      },
+      {
+        "ID": "112",
+        "AVAILABLECAR": "-3",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "073",
+        "ALT_PAK2": "035",
+        "ALT_PAK3": "082"
+      },
+      {
+        "ID": "113",
+        "AVAILABLECAR": "110",
+        "AVAILABLEMOTOR": "69",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "027",
+        "ALT_PAK2": "034",
+        "ALT_PAK3": "085"
+      },
+      {
+        "ID": "110",
+        "AVAILABLECAR": "31",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "129",
+        "ALT_PAK2": "078",
+        "ALT_PAK3": "098"
+      },
+      {
+        "ID": "111",
+        "AVAILABLECAR": "56",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "176",
+        "ALT_PAK2": "086",
+        "ALT_PAK3": "140"
+      },
+      {
+        "ID": "013",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "002",
+        "ALT_PAK2": "012",
+        "ALT_PAK3": "009"
+      },
+      {
+        "ID": "014",
+        "AVAILABLECAR": "76",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "006",
+        "ALT_PAK2": "012",
+        "ALT_PAK3": "187"
+      },
+      {
+        "ID": "011",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "010",
+        "ALT_PAK2": "008",
+        "ALT_PAK3": "009"
+      },
+      {
+        "ID": "012",
+        "AVAILABLECAR": "21",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "002",
+        "ALT_PAK2": "009",
+        "ALT_PAK3": "008"
+      },
+      {
+        "ID": "017",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "075",
+        "ALT_PAK2": "186",
+        "ALT_PAK3": "079"
+      },
+      {
+        "ID": "018",
+        "AVAILABLECAR": "418",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "015",
+        "ALT_PAK2": "055",
+        "ALT_PAK3": "016"
+      },
+      {
+        "ID": "118",
+        "AVAILABLECAR": "63",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "080",
+        "ALT_PAK2": "159",
+        "ALT_PAK3": "024"
+      },
+      {
+        "ID": "015",
+        "AVAILABLECAR": "144",
+        "AVAILABLEMOTOR": "504",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "018",
+        "ALT_PAK2": "016",
+        "ALT_PAK3": "055"
+      },
+      {
+        "ID": "119",
+        "AVAILABLECAR": "64",
+        "AVAILABLEMOTOR": "45",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "066",
+        "ALT_PAK2": "094",
+        "ALT_PAK3": "021"
+      },
+      {
+        "ID": "016",
+        "AVAILABLECAR": "100",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "015",
+        "ALT_PAK2": "018",
+        "ALT_PAK3": "019"
+      },
+      {
+        "ID": "010",
+        "AVAILABLECAR": "94",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "008",
+        "ALT_PAK2": "009",
+        "ALT_PAK3": "045"
+      },
+      {
+        "ID": "126",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "064",
+        "ALT_PAK2": "065",
+        "ALT_PAK3": "079"
+      },
+      {
+        "ID": "127",
+        "AVAILABLECAR": "30",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "161",
+        "ALT_PAK2": "016",
+        "ALT_PAK3": "042"
+      },
+      {
+        "ID": "300",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "0"
+      },
+      {
+        "ID": "128",
+        "AVAILABLECAR": "74",
+        "AVAILABLEMOTOR": "122",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "113",
+        "ALT_PAK2": "114",
+        "ALT_PAK3": "034"
+      },
+      {
+        "ID": "121",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "022",
+        "ALT_PAK2": "188",
+        "ALT_PAK3": "089"
+      },
+      {
+        "ID": "302",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "301",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "304",
+        "AVAILABLECAR": "7",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "123",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "159",
+        "ALT_PAK2": "085",
+        "ALT_PAK3": "080"
+      },
+      {
+        "ID": "124",
+        "AVAILABLECAR": "133",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "039",
+        "ALT_PAK2": "097",
+        "ALT_PAK3": "102"
+      },
+      {
+        "ID": "303",
+        "AVAILABLECAR": "43",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "306",
+        "AVAILABLECAR": "126",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "022",
+        "AVAILABLECAR": "72",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "188",
+        "ALT_PAK2": "089",
+        "ALT_PAK3": "038"
+      },
+      {
+        "ID": "305",
+        "AVAILABLECAR": "56",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "023",
+        "AVAILABLECAR": "193",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "182",
+        "ALT_PAK2": "183",
+        "ALT_PAK3": "181"
+      },
+      {
+        "ID": "024",
+        "AVAILABLECAR": "33",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "080",
+        "ALT_PAK2": "118",
+        "ALT_PAK3": "056"
+      },
+      {
+        "ID": "308",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "025",
+        "AVAILABLECAR": "73",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "044",
+        "ALT_PAK2": "069",
+        "ALT_PAK3": "007"
+      },
+      {
+        "ID": "307",
+        "AVAILABLECAR": "77",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "0"
+      },
+      {
+        "ID": "129",
+        "AVAILABLECAR": "26",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "110",
+        "ALT_PAK2": "092",
+        "ALT_PAK3": "078"
+      },
+      {
+        "ID": "026",
+        "AVAILABLECAR": "280",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "004",
+        "ALT_PAK2": "188",
+        "ALT_PAK3": "032"
+      },
+      {
+        "ID": "309",
+        "AVAILABLECAR": "12",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "027",
+        "AVAILABLECAR": "176",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "114",
+        "ALT_PAK2": "113",
+        "ALT_PAK3": "085"
+      },
+      {
+        "ID": "028",
+        "AVAILABLECAR": "43",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "164",
+        "ALT_PAK2": "008",
+        "ALT_PAK3": "009"
+      },
+      {
+        "ID": "029",
+        "AVAILABLECAR": "86",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "081",
+        "ALT_PAK2": "084",
+        "ALT_PAK3": "120"
+      },
+      {
+        "ID": "021",
+        "AVAILABLECAR": "128",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "102",
+        "ALT_PAK2": "020",
+        "ALT_PAK3": "094"
+      },
+      {
+        "ID": "020",
+        "AVAILABLECAR": "80",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "021",
+        "ALT_PAK2": "094",
+        "ALT_PAK3": "102"
+      },
+      {
+        "ID": "120",
+        "AVAILABLECAR": "44",
+        "AVAILABLEMOTOR": "39",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "103",
+        "ALT_PAK2": "174",
+        "ALT_PAK3": "043"
+      },
+      {
+        "ID": "134",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "096",
+        "ALT_PAK2": "086",
+        "ALT_PAK3": "005"
+      },
+      {
+        "ID": "135",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "105",
+        "ALT_PAK2": "038",
+        "ALT_PAK3": "165"
+      },
+      {
+        "ID": "132",
+        "AVAILABLECAR": "8",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "100",
+        "ALT_PAK2": "049",
+        "ALT_PAK3": "095"
+      },
+      {
+        "ID": "133",
+        "AVAILABLECAR": "6",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "005",
+        "ALT_PAK2": "096",
+        "ALT_PAK3": "086"
+      },
+      {
+        "ID": "138",
+        "AVAILABLECAR": "13",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "102",
+        "ALT_PAK2": "072",
+        "ALT_PAK3": "020"
+      },
+      {
+        "ID": "139",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "138",
+        "ALT_PAK2": "102",
+        "ALT_PAK3": "072"
+      },
+      {
+        "ID": "136",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "038",
+        "ALT_PAK2": "105",
+        "ALT_PAK3": "022"
+      },
+      {
+        "ID": "137",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "038",
+        "ALT_PAK2": "022",
+        "ALT_PAK3": "105"
+      },
+      {
+        "ID": "131",
+        "AVAILABLECAR": "16",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "095",
+        "ALT_PAK2": "100",
+        "ALT_PAK3": "049"
+      },
+      {
+        "ID": "008",
+        "AVAILABLECAR": "217",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "009",
+        "ALT_PAK2": "010",
+        "ALT_PAK3": "002"
+      },
+      {
+        "ID": "009",
+        "AVAILABLECAR": "206",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "045",
+        "ALT_PAK2": "008",
+        "ALT_PAK3": "002"
+      },
+      {
+        "ID": "149",
+        "AVAILABLECAR": "63",
+        "AVAILABLEMOTOR": "3",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "129",
+        "ALT_PAK2": "092",
+        "ALT_PAK3": "110"
+      },
+      {
+        "ID": "004",
+        "AVAILABLECAR": "75",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "026",
+        "ALT_PAK2": "188",
+        "ALT_PAK3": "028"
+      },
+      {
+        "ID": "005",
+        "AVAILABLECAR": "40",
+        "AVAILABLEMOTOR": "61",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "096",
+        "ALT_PAK2": "036",
+        "ALT_PAK3": "095"
+      },
+      {
+        "ID": "006",
+        "AVAILABLECAR": "415",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "014",
+        "ALT_PAK2": "012",
+        "ALT_PAK3": "187"
+      },
+      {
+        "ID": "007",
+        "AVAILABLECAR": "133",
+        "AVAILABLEMOTOR": "169",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "069",
+        "ALT_PAK2": "067",
+        "ALT_PAK3": "091"
+      },
+      {
+        "ID": "001",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "806",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "010",
+        "ALT_PAK2": "008",
+        "ALT_PAK3": "009"
+      },
+      {
+        "ID": "002",
+        "AVAILABLECAR": "54",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "009",
+        "ALT_PAK2": "008",
+        "ALT_PAK3": "012"
+      },
+      {
+        "ID": "003",
+        "AVAILABLECAR": "22",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "107",
+        "ALT_PAK2": "088",
+        "ALT_PAK3": "002"
+      },
+      {
+        "ID": "140",
+        "AVAILABLECAR": "51",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "068",
+        "ALT_PAK2": "138",
+        "ALT_PAK3": "111"
+      },
+      {
+        "ID": "142",
+        "AVAILABLECAR": "-3",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "128",
+        "ALT_PAK2": "113",
+        "ALT_PAK3": "034"
+      },
+      {
+        "ID": "141",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "140",
+        "ALT_PAK2": "068",
+        "ALT_PAK3": "111"
+      },
+      {
+        "ID": "281",
+        "AVAILABLECAR": "16",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "280",
+        "AVAILABLECAR": "12",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "285",
+        "AVAILABLECAR": "37",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "284",
+        "AVAILABLECAR": "39",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "283",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "282",
+        "AVAILABLECAR": "30",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "288",
+        "AVAILABLECAR": "24",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "289",
+        "AVAILABLECAR": "12",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "286",
+        "AVAILABLECAR": "10",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "287",
+        "AVAILABLECAR": "2",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "270",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "272",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "271",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "274",
+        "AVAILABLECAR": "7",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "273",
+        "AVAILABLECAR": "2",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "275",
+        "AVAILABLECAR": "17",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "276",
+        "AVAILABLECAR": "2",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "277",
+        "AVAILABLECAR": "18",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "278",
+        "AVAILABLECAR": "16",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "279",
+        "AVAILABLECAR": "13",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "109",
+        "AVAILABLECAR": "94",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "084",
+        "ALT_PAK2": "173",
+        "ALT_PAK3": "105"
+      },
+      {
+        "ID": "107",
+        "AVAILABLECAR": "42",
+        "AVAILABLEMOTOR": "20",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "045",
+        "ALT_PAK2": "010",
+        "ALT_PAK3": "088"
+      },
+      {
+        "ID": "106",
+        "AVAILABLECAR": "125",
+        "AVAILABLEMOTOR": "105",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "093",
+        "ALT_PAK2": "071",
+        "ALT_PAK3": "035"
+      },
+      {
+        "ID": "105",
+        "AVAILABLECAR": "10",
+        "AVAILABLEMOTOR": "3",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "038",
+        "ALT_PAK2": "043",
+        "ALT_PAK3": "022"
+      },
+      {
+        "ID": "104",
+        "AVAILABLECAR": "9999",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "103",
+        "AVAILABLECAR": "46",
+        "AVAILABLEMOTOR": "45",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "120",
+        "ALT_PAK2": "043",
+        "ALT_PAK3": "174"
+      },
+      {
+        "ID": "102",
+        "AVAILABLECAR": "55",
+        "AVAILABLEMOTOR": "37",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "020",
+        "ALT_PAK2": "138",
+        "ALT_PAK3": "021"
+      },
+      {
+        "ID": "101",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "128",
+        "ALT_PAK2": "034",
+        "ALT_PAK3": "113"
+      },
+      {
+        "ID": "100",
+        "AVAILABLECAR": "112",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "049",
+        "ALT_PAK2": "095",
+        "ALT_PAK3": "036"
+      },
+      {
+        "ID": "294",
+        "AVAILABLECAR": "26",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "293",
+        "AVAILABLECAR": "31",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "296",
+        "AVAILABLECAR": "3",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "295",
+        "AVAILABLECAR": "49",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "290",
+        "AVAILABLECAR": "24",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "292",
+        "AVAILABLECAR": "80",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "291",
+        "AVAILABLECAR": "33",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "297",
+        "AVAILABLECAR": "12",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "298",
+        "AVAILABLECAR": "12",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "299",
+        "AVAILABLECAR": "69",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "092",
+        "AVAILABLECAR": "24",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "129",
+        "ALT_PAK2": "078",
+        "ALT_PAK3": "149"
+      },
+      {
+        "ID": "091",
+        "AVAILABLECAR": "16",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "007",
+        "ALT_PAK2": "067",
+        "ALT_PAK3": "015"
+      },
+      {
+        "ID": "094",
+        "AVAILABLECAR": "45",
+        "AVAILABLEMOTOR": "14",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "021",
+        "ALT_PAK2": "020",
+        "ALT_PAK3": "102"
+      },
+      {
+        "ID": "093",
+        "AVAILABLECAR": "14",
+        "AVAILABLEMOTOR": "70",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "106",
+        "ALT_PAK2": "042",
+        "ALT_PAK3": "071"
+      },
+      {
+        "ID": "240",
+        "AVAILABLECAR": "63",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "096",
+        "AVAILABLECAR": "114",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "005",
+        "ALT_PAK2": "086",
+        "ALT_PAK3": "176"
+      },
+      {
+        "ID": "241",
+        "AVAILABLECAR": "30",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "095",
+        "AVAILABLECAR": "38",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "100",
+        "ALT_PAK2": "049",
+        "ALT_PAK3": "036"
+      },
+      {
+        "ID": "098",
+        "AVAILABLECAR": "97",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "110",
+        "ALT_PAK2": "173",
+        "ALT_PAK3": "078"
+      },
+      {
+        "ID": "097",
+        "AVAILABLECAR": "30",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "039",
+        "ALT_PAK2": "124",
+        "ALT_PAK3": "119"
+      },
+      {
+        "ID": "195",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "194",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "197",
+        "AVAILABLECAR": "10",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "196",
+        "AVAILABLECAR": "1",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "191",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "190",
+        "AVAILABLECAR": "69",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "64"
+      },
+      {
+        "ID": "193",
+        "AVAILABLECAR": "79",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "090",
+        "AVAILABLECAR": "44",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "067",
+        "ALT_PAK2": "007",
+        "ALT_PAK3": "091"
+      },
+      {
+        "ID": "192",
+        "AVAILABLECAR": "147",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "198",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "199",
+        "AVAILABLECAR": "41",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "099",
+        "AVAILABLECAR": "6",
+        "AVAILABLEMOTOR": "18",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "073",
+        "ALT_PAK2": "059",
+        "ALT_PAK3": "058"
+      },
+      {
+        "ID": "245",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "244",
+        "AVAILABLECAR": "78",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "243",
+        "AVAILABLECAR": "60",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "242",
+        "AVAILABLECAR": "45",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "249",
+        "AVAILABLECAR": "50",
+        "AVAILABLEMOTOR": "84",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "248",
+        "AVAILABLECAR": "16",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "247",
+        "AVAILABLECAR": "37",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "246",
+        "AVAILABLECAR": "68",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "230",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "239",
+        "AVAILABLECAR": "19",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "232",
+        "AVAILABLECAR": "18",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "231",
+        "AVAILABLECAR": "12",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "234",
+        "AVAILABLECAR": "239",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "233",
+        "AVAILABLECAR": "92",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "236",
+        "AVAILABLECAR": "28",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "235",
+        "AVAILABLECAR": "37",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "238",
+        "AVAILABLECAR": "19",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "237",
+        "AVAILABLECAR": "44",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "074",
+        "AVAILABLECAR": "2",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "186",
+        "ALT_PAK2": "075",
+        "ALT_PAK3": "026"
+      },
+      {
+        "ID": "262",
+        "AVAILABLECAR": "11",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "263",
+        "AVAILABLECAR": "19",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "073",
+        "AVAILABLECAR": "119",
+        "AVAILABLEMOTOR": "0",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "042",
+        "ALT_PAK2": "082",
+        "ALT_PAK3": "059"
+      },
+      {
+        "ID": "076",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "077",
+        "ALT_PAK2": "162",
+        "ALT_PAK3": "176"
+      },
+      {
+        "ID": "260",
+        "AVAILABLECAR": "96",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "261",
+        "AVAILABLECAR": "55",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "075",
+        "AVAILABLECAR": "42",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "186",
+        "ALT_PAK2": "040",
+        "ALT_PAK3": "053"
+      },
+      {
+        "ID": "070",
+        "AVAILABLECAR": "68",
+        "AVAILABLEMOTOR": "18",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "083",
+        "ALT_PAK2": "181",
+        "ALT_PAK3": "182"
+      },
+      {
+        "ID": "072",
+        "AVAILABLECAR": "92",
+        "AVAILABLEMOTOR": "45",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "138",
+        "ALT_PAK2": "068",
+        "ALT_PAK3": "102"
+      },
+      {
+        "ID": "071",
+        "AVAILABLECAR": "66",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "106",
+        "ALT_PAK2": "030",
+        "ALT_PAK3": "093"
+      },
+      {
+        "ID": "269",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "268",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "077",
+        "AVAILABLECAR": "27",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "075",
+        "ALT_PAK2": "049",
+        "ALT_PAK3": "129"
+      },
+      {
+        "ID": "267",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "078",
+        "AVAILABLECAR": "37",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "110",
+        "ALT_PAK2": "129",
+        "ALT_PAK3": "092"
+      },
+      {
+        "ID": "266",
+        "AVAILABLECAR": "39",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "079",
+        "AVAILABLECAR": "80",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "065",
+        "ALT_PAK2": "010",
+        "ALT_PAK3": "064"
+      },
+      {
+        "ID": "265",
+        "AVAILABLECAR": "22",
+        "AVAILABLEMOTOR": "11",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "264",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "087",
+        "AVAILABLECAR": "1",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "181",
+        "ALT_PAK2": "182",
+        "ALT_PAK3": "183"
+      },
+      {
+        "ID": "250",
+        "AVAILABLECAR": "12",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "086",
+        "AVAILABLECAR": "52",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "176",
+        "ALT_PAK2": "162",
+        "ALT_PAK3": "096"
+      },
+      {
+        "ID": "251",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "085",
+        "AVAILABLECAR": "124",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "159",
+        "ALT_PAK2": "027",
+        "ALT_PAK3": "113"
+      },
+      {
+        "ID": "084",
+        "AVAILABLECAR": "41",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "029",
+        "ALT_PAK2": "109",
+        "ALT_PAK3": "081"
+      },
+      {
+        "ID": "252",
+        "AVAILABLECAR": "-9",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "083",
+        "AVAILABLECAR": "86",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "070",
+        "ALT_PAK2": "181",
+        "ALT_PAK3": "182"
+      },
+      {
+        "ID": "082",
+        "AVAILABLECAR": "13",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "035",
+        "ALT_PAK2": "073",
+        "ALT_PAK3": "106"
+      },
+      {
+        "ID": "081",
+        "AVAILABLECAR": "56",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "029",
+        "ALT_PAK2": "084",
+        "ALT_PAK3": "120"
+      },
+      {
+        "ID": "080",
+        "AVAILABLECAR": "109",
+        "AVAILABLEMOTOR": "170",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "118",
+        "ALT_PAK2": "056",
+        "ALT_PAK3": "024"
+      },
+      {
+        "ID": "258",
+        "AVAILABLECAR": "58",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "257",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "259",
+        "AVAILABLECAR": "28",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "254",
+        "AVAILABLECAR": "32",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "253",
+        "AVAILABLECAR": "38",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "088",
+        "AVAILABLECAR": "43",
+        "AVAILABLEMOTOR": "28",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "107",
+        "ALT_PAK2": "003",
+        "ALT_PAK3": "002"
+      },
+      {
+        "ID": "256",
+        "AVAILABLECAR": "0",
+        "AVAILABLEMOTOR": "-9",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "255",
+        "AVAILABLECAR": "338",
+        "AVAILABLEMOTOR": "322",
+        "AVAILABLEBUS": "-9"
+      },
+      {
+        "ID": "089",
+        "AVAILABLECAR": "23",
+        "AVAILABLEMOTOR": "19",
+        "AVAILABLEBUS": "-9",
+        "ALT_PAK1": "022",
+        "ALT_PAK2": "038",
+        "ALT_PAK3": "165"
+      }
+    ]
+  }
+}
